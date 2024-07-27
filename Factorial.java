@@ -12,7 +12,7 @@ public class Factorial
 			count*=i;
 			
 		}
-		System.out.println(count+" the factorial of "+number);
+		System.out.println(count+" "+number);
 		
 	}
 }
